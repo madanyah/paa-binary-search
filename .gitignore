@@ -1,0 +1,16 @@
+# Folder konfigurasi DBeaver
+.dbeaver/
+
+# Bytecode Python
+__pycache__/
+*.pyc
+
+# File environment
+.env
+
+# File database SQLite
+*.db
+dataBarang.db
+
+# IDE-related files
+.project

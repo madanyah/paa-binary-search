@@ -1,6 +1,6 @@
-import src.database as database
-from src.barang import Barang
-import src.search as search
+import project_root.database as database
+from project_root.barang import Barang
+
 
 def main():
     database.buatTableBarang()
